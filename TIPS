@@ -1,0 +1,8 @@
+# SSH access
+# username: pi
+# password: nibe
+
+# OS update
+# Start samba share, might work without.
+# use putty/kitty, ssh to nibepi's ip
+sudo apt update & sudo apt upgrade
